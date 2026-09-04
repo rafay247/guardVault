@@ -2,6 +2,12 @@
 
 GuardVault is a basic multi-signature wallet dApp. It holds ETH in a smart contract and only executes outgoing transactions after enough wallet owners approve them.
 
+## Demo
+
+<video src="docs/guardVault.mp4" controls width="720">
+  Your browser doesn't support the video tag — <a href="docs/guardVault.mp4">watch docs/guardVault.mp4</a> instead.
+</video>
+
 ## Problem It Solves
 
 A normal crypto wallet can lose all funds if one private key is stolen. GuardVault removes that single point of failure by requiring N-of-M approvals.
